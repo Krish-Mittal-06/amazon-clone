@@ -23,7 +23,7 @@ body{
 
 }
 .logo{
-    background-image: url("-images-/logo.png");
+    background-image: url("images/logo.png");
     background-size: cover;
     height: 60px;
     width: 100%;
@@ -78,7 +78,7 @@ body{
 }
 
 .region-icon{
-    background-image: url("-images-/flag.png");
+    background-image: url("images/flag.png");
     background-size: cover;
     height: 30px;
     width: 80%;
@@ -156,7 +156,7 @@ span{
 
 /*hero-section*/
 .hero-section{
-    background-image: url("-images-/hero-sec.png");
+    background-image: url("images/hero-sec.png");
     height: 380px;
     background-size: cover;
     display: flex;
@@ -277,7 +277,7 @@ ul a{
 }
 
 .logoend{
-    background-image: url("-images-/logo.png");
+    background-image: url("images/logo.png");
     background-size: cover;
     height: 70px;
     width: 150px;
@@ -300,4 +300,5 @@ ul a{
 
 .copyright{
     padding-top: 5px;
+
 }
